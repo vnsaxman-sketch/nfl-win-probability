@@ -404,9 +404,12 @@ function NFLWinProbability() {
         <h1>
           In Game NFL Win Probability Calculator
         </h1>
+	<p className="educational">
+          Educational Purpose
+        </p>
 
         <p className="educational">
-          Educational Purpose
+          Developed by: Long Nguyen
         </p>
 
         {/* SCORE */}
